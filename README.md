@@ -1,0 +1,1 @@
+"Useeffect example which is used for handling side-effects it conatins two arguments 1st arg. is function &2nd arg. is an array where we write our dependencies and it is optional if we don't write 2nd arg then this will run only 1 time at the time of loading"
